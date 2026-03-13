@@ -1,2 +1,2 @@
-# Simple-Game
-Simple 3D Runner Game
+# Endless-Runner
+Simple 3D Endless Runner Game
